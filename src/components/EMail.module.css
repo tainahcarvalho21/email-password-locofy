@@ -1,0 +1,341 @@
+.logoIcon {
+  width: 130px;
+  height: 50.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.line,
+.logoIcon,
+.olNomeDa {
+  position: relative;
+}
+.line {
+  align-self: stretch;
+  height: 2.7px;
+  background-color: var(--primary-primary-600-principal);
+  z-index: 4;
+}
+.olNomeDa {
+  width: 523px;
+  line-height: 24px;
+  display: inline-block;
+  color: var(--primary-primary-600-principal);
+  text-align: center;
+}
+.freepikFloorInject2Icon {
+  position: absolute;
+  top: 197.9px;
+  left: 32px;
+  width: 302.3px;
+  height: 0.2px;
+  z-index: 1;
+}
+.freepikPlantInject2Icon {
+  position: absolute;
+  top: 104.8px;
+  left: 20.1px;
+  width: 64.9px;
+  height: 93px;
+  z-index: 3;
+}
+.freepikBackgroundCompleteIcon {
+  position: absolute;
+  top: -0.5px;
+  left: 0.2px;
+  width: 305.4px;
+  height: 198.5px;
+}
+.freepikCharacterInject2Icon {
+  position: absolute;
+  top: 41.8px;
+  left: 226px;
+  width: 56.1px;
+  height: 158px;
+  z-index: 2;
+}
+.freepikDeviceInject2Icon {
+  position: absolute;
+  top: 0.1px;
+  left: -0.1px;
+  width: 209.1px;
+  height: 173.8px;
+}
+.verificar {
+  position: absolute;
+  top: 99px;
+  left: 86px;
+  line-height: 8px;
+  font-weight: 600;
+  z-index: 3;
+}
+.freepikDeviceInject2Parent {
+  position: absolute;
+  top: 24px;
+  left: 17px;
+  width: 209px;
+  height: 174px;
+}
+.freepikSpeechBubbleInjectIcon {
+  position: absolute;
+  top: 25px;
+  left: 253.4px;
+  width: 30.1px;
+  height: 30.1px;
+  z-index: 3;
+}
+.backgroundFrame {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 40px;
+  width: 305px;
+}
+.freepikFloorInject2Parent {
+  width: 365px;
+  height: 200px;
+  position: relative;
+  font-size: 8px;
+  color: var(--color-white);
+}
+.esqueceuSuaSenha {
+  position: relative;
+  line-height: 27px;
+  font-weight: 600;
+}
+.meuMaterDei {
+  font-weight: 600;
+}
+.meuMaterDei,
+.paraCriarUma {
+  font-family: var(--body-body-small);
+}
+.vocSolicitouARedefinioD {
+  margin: 0;
+}
+.vocSolicitouAContainer {
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+}
+.forgotPassword {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xl);
+  gap: 8px;
+  font-size: var(--label-x-large-weight-semibold-size);
+}
+.groupOfRectangles {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: -0.6px;
+  right: 0;
+  bottom: 0.6px;
+  left: 0;
+  border-radius: var(--br-5xs);
+}
+.semicolonTriple {
+  position: absolute;
+  margin: 0 !important;
+  top: 6.2px;
+  left: 23px;
+  line-height: 42px;
+  font-weight: 600;
+  z-index: 1;
+}
+.groupOfRectanglesParent {
+  height: 56px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-6xs) 16px;
+  box-sizing: border-box;
+  position: relative;
+}
+.div,
+.frameChild {
+  position: absolute;
+  margin: 0 !important;
+}
+.frameChild {
+  height: 100%;
+  width: 100%;
+  top: -0.6px;
+  right: 0;
+  bottom: 0.6px;
+  left: 0;
+  border-radius: var(--br-5xs);
+}
+.div {
+  top: 6.2px;
+  left: 23px;
+  line-height: 42px;
+  font-weight: 600;
+  z-index: 1;
+}
+.rectangleParent {
+  height: 56px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-6xs) var(--padding-sm);
+  box-sizing: border-box;
+  position: relative;
+}
+.div1,
+.frameItem {
+  position: absolute;
+  margin: 0 !important;
+}
+.frameItem {
+  height: 100%;
+  width: 100%;
+  top: -0.6px;
+  right: 0;
+  bottom: 0.6px;
+  left: 0;
+  border-radius: var(--br-5xs);
+}
+.div1 {
+  top: 6.2px;
+  left: 23px;
+  line-height: 42px;
+  font-weight: 600;
+  z-index: 1;
+}
+.rectangleGroup {
+  height: 56px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) 22px var(--padding-6xs) 23px;
+  box-sizing: border-box;
+  position: relative;
+}
+.div2,
+.frameInner {
+  position: absolute;
+  margin: 0 !important;
+}
+.frameInner {
+  height: 100%;
+  width: 100%;
+  top: -0.6px;
+  right: 0;
+  bottom: 0.6px;
+  left: 0;
+  border-radius: var(--br-5xs);
+}
+.div2 {
+  top: 6.2px;
+  left: 23px;
+  line-height: 42px;
+  font-weight: 600;
+  z-index: 1;
+}
+.groupFrames,
+.rectangleContainer {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.rectangleContainer {
+  height: 56px;
+  flex: 1;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-6xs) var(--padding-sm);
+  position: relative;
+}
+.groupFrames {
+  width: 240px;
+  border-radius: 48px;
+  background-color: var(--primary-primary-100-light);
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px;
+  font-size: var(--title-large-weight-semibold-size);
+  color: var(--secondary-secondary-900);
+}
+.seNoFoi {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: -0.6px;
+  left: 0;
+  line-height: 18px;
+  display: inline-block;
+}
+.attentionVectorIcon {
+  width: 0;
+  height: 0;
+  position: relative;
+  z-index: 4;
+}
+.logo,
+.warningEmail {
+  display: flex;
+  flex-direction: column;
+}
+.warningEmail {
+  width: 532px;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 52px 58px 2px;
+  box-sizing: border-box;
+  position: relative;
+  font-size: var(--body-body-small-size);
+}
+.logo {
+  flex: 1;
+  background-color: #ebf4f4;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 25px;
+  gap: 23px;
+}
+.atenoEste,
+.mainFRAME {
+  font-family: var(--body-body-small);
+}
+.mainFRAME {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 6px;
+  text-align: left;
+  font-size: 20px;
+  color: var(--neutral-neutral-800);
+}
+.atenoEste {
+  position: relative;
+  font-size: var(--body-body-small-size);
+  line-height: 24px;
+  color: var(--neutral-neutral-500);
+  text-align: center;
+}
+.eMail {
+  width: 600px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) 10px 26px;
+  box-sizing: border-box;
+  gap: 20px;
+}
